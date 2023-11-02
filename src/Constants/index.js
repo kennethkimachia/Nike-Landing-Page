@@ -111,7 +111,7 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "ecommerceproject@mku.com", link: "ecommerceproject@mku.com" },
+            { name: "kimachiakenneth@gmail.com", link: "kimachiakenneth@gmail.com" },
             { name: "+25454862354", link: "tel:+25454862354" },
         ],
     },
