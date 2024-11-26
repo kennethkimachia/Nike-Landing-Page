@@ -1,4 +1,4 @@
-import {reviews} from "../Constants"
+import { reviews } from "../constants"
 import ReviewCard from "../Components/ReviewCard"
 
 const CustomerReviews = () => {

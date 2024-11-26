@@ -1,7 +1,7 @@
 import {  CustomerReviews, Hero, Footer, PopularProduct, Services, SpecialOffer, Subscribe, SuperQuality} from './Sections';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Shop from './shop';
-import Nav from './Components/nav';
+import Nav from './Components/Nav';
 
 
 const LandingPage = () => (
